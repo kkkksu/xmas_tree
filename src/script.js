@@ -1,4 +1,6 @@
+import "./style.css"
 import { Scene, BoxGeometry, MeshBasicMaterial, Mesh, PerspectiveCamera, WebGLRenderer } from 'three'
+
 
 
 const scene = new Scene()
